@@ -9,7 +9,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    var isGood = true
+    let greatings = "Hello world!"
 
     override func viewDidLoad() {
         super.viewDidLoad()
